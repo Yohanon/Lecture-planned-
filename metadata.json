@@ -1,0 +1,6 @@
+{
+  "name": "Lecture Planner",
+  "description": "Track Arjuna JEE lectures and checklists with online username login, Google Account linking, and 70% threshold test planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
